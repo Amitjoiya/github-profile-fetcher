@@ -1,0 +1,49 @@
+{
+    "user_profile": {
+        "login": "Amitjoiya",
+        "name": "Amit Joiya",
+        "bio": "Bachelor's in CS & Data Analytics @ IIT Patna | Learning Python & Data Science",
+        "location": "India",
+        "public_repos": 5,
+        "followers": 0,
+        "following": 0,
+        "created_at": "2025-02-08T12:25:10Z"
+    },
+    "repositories": [
+        {
+            "name": "todo-fullstack",
+            "description": null,
+            "language": "JavaScript",
+            "stargazers_count": 0,
+            "updated_at": "2025-08-21T05:51:36Z"
+        },
+        {
+            "name": "research-agent",
+            "description": null,
+            "language": "Python",
+            "stargazers_count": 0,
+            "updated_at": "2025-08-12T18:25:23Z"
+        },
+        {
+            "name": "amitjoiya.github.io",
+            "description": null,
+            "language": "HTML",
+            "stargazers_count": 0,
+            "updated_at": "2025-06-24T08:18:12Z"
+        },
+        {
+            "name": "Python-basics",
+            "description": "My first practice with Python \u2013 variables, loops, functions",
+            "language": null,
+            "stargazers_count": 0,
+            "updated_at": "2025-06-16T15:45:41Z"
+        },
+        {
+            "name": "Amitjoiya",
+            "description": "Config files for my GitHub profile.",
+            "language": null,
+            "stargazers_count": 0,
+            "updated_at": "2025-02-08T12:28:50Z"
+        }
+    ]
+}
